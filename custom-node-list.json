@@ -16179,6 +16179,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "BeWiZ",
+            "title": "BWIZ Nodes - ComfyUI Node Pack",
+            "reference": "https://github.com/downlifted/ComfyUI_BWiZ_Nodes",
+            "files": [
+                "https://github.com/downlifted/ComfyUI_BWiZ_Nodes"
+            ],
+            "install_type": "git-clone",
+            "description": "NODES: ComfyUI Email Notification, Error Monitor(Log Monitor), Advanced Image Batch(Natural Loader), Play Sound (Notification), Send Webhook, Load Images from HuggingFace Repo"
         }
     ]
 }
